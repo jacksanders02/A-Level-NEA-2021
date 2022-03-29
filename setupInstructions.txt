@@ -1,0 +1,18 @@
+When you select 'setup' from the main menu, you will be able to place spherical
+particles by pressing the left mouse button. Each particle has its own
+properties, which can be customised using the inputs on the right hand side of
+the screen. All changes will take effect immediately, apart from the height off
+of the ground, which will only take effect if and when you check the box
+labelled 'Lock to height'. You can also press the 'S' key to resize the
+particle, and use the scroll wheel to zoom in and out.
+
+Naturally, each particle is of a certain material, which determines
+both its colour and its density. In order to change the particle's material,
+you can either select a material from the dropdown menu, or - if none of the
+materials have your desired density - you can create your own material by
+pressing the button labelled 'Create material'.
+
+After you have placed any particles, if you decide that one of them doesn't
+have the properties you want it to have, you can simply right click on it to
+open an edit menu, in which you can change all of the properties you could
+before it was placed, or even delete it.

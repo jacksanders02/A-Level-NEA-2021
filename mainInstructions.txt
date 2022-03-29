@@ -1,0 +1,3 @@
+Once the simulation is running, you can click on the little tab at the bottom
+of the screen to bring up the time controls, which you can use to increase or
+decrease the time scale (from -2x speed to +2x speed) or pause the simulation.
